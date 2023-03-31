@@ -74,8 +74,8 @@
 </a>
 
 <h3 align="left">GitHub Profile Status:</h3>
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sadvoting&show_icons=true&locale=en&layout=compact&theme=graywhite" alt="sadvoting" height="192px"/>
-
-<a align="right" href="https://github.com/sadvoting/github-readme-stats"><img alt="Sadvoting's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sadvoting&show_icons=true&count_private=true&theme=graywhite" height="192px"/></a>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sadvoting&show_icons=true&locale=en&layout=compact&theme=graywhite" alt="sadvoting" height="192px"/>
+  &nbsp;
+<a href="https://github.com/sadvoting/github-readme-stats"><img alt="Sadvoting's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sadvoting&show_icons=true&count_private=true&theme=graywhite" height="192px"/></a>
 </p>
