@@ -1,0 +1,8 @@
+{
+  "allow_usage": true,
+  "IPS": [
+    1,
+    2,
+    3
+  ]
+}
