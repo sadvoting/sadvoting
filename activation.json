@@ -8,7 +8,7 @@
     "169.254.61.44",
   ],
   "Tools": [
-    "IG AutoClaimer": { "version": "1.5.2" },
+    "IG AutoClaimer": { "version": "1.5.3" },
     "IG AutoClaimer Launcher": { "version": "1.0.0" },
     "IG TokenGrabber": { "version": "0.5.2" }
   ], 
