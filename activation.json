@@ -11,7 +11,8 @@
     "IG AutoClaimer": { "version": "1.5.3" },
     "IG AutoClaimer": { "version": "1.5.2" },
     "IG AutoClaimer Launcher": { "version": "1.0.0" },
-    "IG TokenGrabber": { "version": "0.5.2" }
+    "IG TokenGrabber": { "version": "0.5.2" },
+    "IG ACC GEN": { "version": "0.2.0" }
   ], 
   "Settings": [
     "ClaimsBio": "[JAX] It is the beginning of the new decade ..",
