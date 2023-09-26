@@ -1,1 +1,5 @@
-VmVueCZKzptYLVBAc3MyMDIz
+{
+  "version": "1.0.0",
+  "password": "VmVueCZKzptYLVBAc3MyMDIz",
+  "accessable": true
+}
