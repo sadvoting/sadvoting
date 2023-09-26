@@ -1,5 +1,5 @@
 {
   "version": "1.0.0",
-  "password": "UEBzJDIz",
+  "password": "Ss6bWFBAc3MyMDIz",
   "accessable": true
 }
