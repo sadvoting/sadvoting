@@ -1,5 +1,5 @@
 <h1 align="center">Hi there <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>, I'm Jax</h1>
-<h3 align="center">A HS Student, Self-taught Programmer & Technology Researcher</h3>
+<h3 align="center">A Medicine Student, Self-taught Programmer & Technology Researcher</h3>
 
 <h3 align="left">Languages&Tools:</h3>
 <!-- Languages  -->
